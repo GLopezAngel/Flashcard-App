@@ -14,15 +14,13 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import org.jetbrains.compose.resources.painterResource
-
 import flashcardreviewer.composeapp.generated.resources.Res
 import flashcardreviewer.composeapp.generated.resources.compose_multiplatform
+import org.jetbrains.compose.resources.painterResource
 
 @Composable
 @Preview
 fun App() {
     MaterialTheme {
-
     }
 }
